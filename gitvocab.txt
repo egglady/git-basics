@@ -15,8 +15,6 @@ ball
 terminal
 branch
 upstream
-scared
-NOPE
 git
 push
 origin
@@ -30,6 +28,6 @@ im
 fine
 now
 just
-add
+a
 little
 misunderstanding
