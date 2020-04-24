@@ -48,3 +48,6 @@ foment
 cudgel
 profligacy
 impertinence
+garrulous
+sequacious
+maudlin
