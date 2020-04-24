@@ -25,3 +25,11 @@ git
 push
 origin
 master
+
+im
+fine
+now
+just
+add
+little
+misunderstanding
