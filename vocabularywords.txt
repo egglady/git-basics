@@ -1,8 +1,5 @@
 vocabularywords
 
-eschew
-supercilious
-indemnity
 gravid
 dropsy
 tractate
@@ -17,7 +14,7 @@ mendacity
 petard
 strepitious
 parvenu
-asseverate 
+asseverate
 simony
 orison
 gallimaufry
